@@ -3,7 +3,7 @@
     "@parcel/transformer-sass": "^2.8.3",
     "parcel": "^2.8.3"
   },
-  "name": "s",
+  "name": "eventoaniversario",
   "version": "1.0.0",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.5",
@@ -108,7 +108,15 @@
     "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilosazevedo/Ebac_EventoAniversario.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilosazevedo/Ebac_EventoAniversario/issues"
+  },
+  "homepage": "https://github.com/danilosazevedo/Ebac_EventoAniversario#readme",
   "description": ""
 }
