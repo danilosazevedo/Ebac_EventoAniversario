@@ -110,14 +110,5 @@
   },
   "author": "",
   "license": "ISC",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/danilosazevedo/Ebac_EventoAniversario.git"
-  },
-  "bugs": {
-    "url": "https://github.com/danilosazevedo/Ebac_EventoAniversario/issues"
-  },
-  "homepage": "https://github.com/danilosazevedo/Ebac_EventoAniversario#readme",
   "description": ""
 }
